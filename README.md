@@ -1,6 +1,6 @@
 # Cardputer Adv Terminal
 
-![Cardputer Adv Terminal](img\IMG_6746.jpeg)
+![Cardputer Adv Terminal](img/IMG_6746.jpeg)
 
 Terminal emulator for ESP32-S3 Cardputer Adv. It shows serial data on the
 built-in screen and sends keyboard input to USB CDC and/or UART.
